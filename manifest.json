@@ -1,11 +1,11 @@
 {
-    "name": "votehelp2020",
-    "short_name": "votehelp2020",
+    "name": "Undecided in 2020",
+    "short_name": "Undecided2020",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Undecided in 2020",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
